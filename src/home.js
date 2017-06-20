@@ -1,6 +1,3 @@
-var path = require('path');
-
-
 function component () {
   var element = document.createElement('div');
 
