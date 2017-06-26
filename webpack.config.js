@@ -29,7 +29,7 @@ const config = {
 	      // Options to configure babel with
 	      query: {
 	        plugins: ['transform-runtime'],
-	        presets: ['es2015', 'es2016', 'react'],
+	        presets: ['es2017', 'react'],
 	      }
 	    },
 	  ]
